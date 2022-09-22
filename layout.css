@@ -1,8 +1,9 @@
 
     nav{
 
-        font-size:20;
+        font-size:50;
         font-style:italic;
+        color: crimson;
         background-color:rgba(35, 224, 199, 0.833);
         padding-top: 20px;
         padding-bottom: 20px;
@@ -11,5 +12,5 @@
     }
    ul{
     color: rgb(111, 7, 171);
-    font-size: large;
+   
    }
