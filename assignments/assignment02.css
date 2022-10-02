@@ -70,18 +70,21 @@ background-color: yellow;
 span.a { display: inline; }
 span.b { display: block; }
 span.c { display: inline-block; }
-img[alt="cat icon"] {
+img[alt="cat icon"] 
+{
 position: fixed;
 right: 0;
 bottom: 0;
 z-index: 1;
 }
-img[alt="dog icon"] {
+img[alt="dog icon"] 
+{
 position: relative;
 right: 50px;
 bottom: 150px;
 }
-img[alt="bird icon"] {
+img[alt="bird icon"] 
+{
 position: absolute;
 top: 50px;
 left: 250px;
